@@ -19,7 +19,7 @@ import taller3.televisores.*;
 public class TestMetodos {
 	
 	@Test
-   	public void testMetodoCanal(){
+   	public void testMetodoCanal(){//melo
 		
 		Marca marca =  new Marca("Semsung");
 		TV tv1 =  new TV(marca, true);
